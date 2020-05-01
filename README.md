@@ -1,6 +1,6 @@
 # contador
 
-A new Flutter project.
+A simple counter of taps, is easy flutter example
 
 ## Getting Started
 
